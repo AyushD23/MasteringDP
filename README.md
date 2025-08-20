@@ -141,56 +141,6 @@ This repository includes solutions for, but is not limited to, the following cla
 
 The problems are organized into a logical directory structure, making it easy to navigate and find specific solutions:
 
-.
-├── problems/                  # Main directory for all DP problem solutions
-│   ├── coin_change/
-│   │   └── coin_change_dp.cpp # Minimum coins and number of ways
-│   ├── fibonacci/
-│   │   ├── memoization.cpp
-│   │   ├── recursive.cpp
-│   │   └── tabulation.cpp
-│   ├── knapsack/
-│   │   ├── zero_one_knapsack.cpp
-│   │   └── unbounded_knapsack.cpp
-│   ├── longest_common_subsequence/
-│   │   └── lcs.cpp
-│   ├── longest_increasing_subsequence/
-│   │   └── lis.cpp
-│   ├── matrix_chain_multiplication/
-│   │   └── mcm.cpp
-│   ├── edit_distance/
-│   │   └── edit_distance.cpp
-│   ├── subset_sum/
-│   │   ├── subset_sum.cpp
-│   │   └── partition_equal_subset_sum.cpp
-│   ├── grid_paths/
-│   │   ├── min_path_sum.cpp
-│   │   └── unique_paths.cpp
-│   ├── jumping_problems/
-│   │   ├── jump_game.cpp
-│   │   └── jump_game_ii.cpp
-│   ├── array_dp/
-│   │   ├── max_subarray.cpp
-│   │   └── max_product_subarray.cpp
-│   ├── string_dp/
-│   │   ├── longest_palindromic_subsequence.cpp
-│   │   ├── longest_palindromic_substring.cpp
-│   │   ├── word_break.cpp
-│   │   └── decode_ways.cpp
-│   ├── other_dp/
-│   │   ├── climb_stairs.cpp
-│   │   ├── house_robber.cpp
-│   │   ├── best_time_to_buy_sell_stock.cpp
-│   │   ├── counting_bits.cpp
-│   │   ├── perfect_squares.cpp
-│   │   ├── interleaving_string.cpp
-│   │   └── count_square_submatrices.cpp
-│   └── ... (more problem categories)
-├── .gitignore                 # Specifies files and directories to be ignored by Git
-├── README.md                  # This document
-└── CMakeLists.txt             # (Optional) For building all files with CMake
-
----
 
 ## Usage Guide
 
